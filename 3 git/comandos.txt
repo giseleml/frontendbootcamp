@@ -11,7 +11,7 @@ git pull | Obter alterações do repositório remoto, atualizando-o
 git merge | Juntar alterações de uma branch para a principal (master)
 git status | Informações do estado atual do projeto 
 git log | Histórico de alterações do repositório 
-git branch <nome da branch> | Cria uma nova branch 
+git branch <nome da branch> | Visualizar todas as branchs criadas
 
 Master -> Branch principal de produção
 
