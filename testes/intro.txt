@@ -1,0 +1,15 @@
+# Testes
+
+## Testes automatizados 
+- unitários: testar a menor unidade do código (componentes, métodos, funções, etc.)
+- integrados: testar a integração entre as partes testadas unitariamente
+- funcionais: testar a integração do seu sistema com outros sistemas
+
+## Manuais e automatizados
+- usabilidade: testar como o consumidor/usuário de um serviço utilizaria uma funcionalidade
+- aceitação do usuário
+- protótipos
+- funcionais 
+- exemplos
+- alpha e beta 
+

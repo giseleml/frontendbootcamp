@@ -35,6 +35,7 @@ function Pessoa() {
     return Pessoa.instance 
 }
 
+
 const p = Pessoa.call({ name: "Gisele" }) // Gisele
 const p2 = Pessoa.call({ name: "Bruna" }) // Gisele
 
