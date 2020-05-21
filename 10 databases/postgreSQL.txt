@@ -1,0 +1,8 @@
+# PostgreSQL
+
+- Banco de dados relacional e open-source
+- Suporta funcionalidades avançadas: 
+    Tipo UUID; (identificador único)
+    PostGis; (geolocalização, permite comparações) 
+    Unaccent; (remove acentos na pesquisa)
+
