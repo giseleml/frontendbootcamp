@@ -1,4 +1,4 @@
-MÉTODOS ARRAY
+## MÉTODOS ARRAY
 
 .push() - Adiciona no fim da array
 .pop() - Remove o último item da array

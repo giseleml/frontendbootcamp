@@ -1,4 +1,4 @@
-Controle de Versão
+## Controle de Versão
 
 GESTÃO DE ALTERAÇÕES DO CÓDIGO FONTE
 - Controlar alterações do código

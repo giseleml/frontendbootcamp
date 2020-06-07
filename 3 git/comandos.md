@@ -1,6 +1,6 @@
-PRINCIPAIS COMANDOS GIT
+## PRINCIPAIS COMANDOS GIT
 
-\ Básicos /
+### Básicos
 
 git init | Inicializa um repositório dentro do projeto
 git clone | Obter uma estrutura de projeto de um repositório remoto (Ex.: Github)
